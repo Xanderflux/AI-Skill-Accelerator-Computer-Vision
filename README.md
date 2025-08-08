@@ -1,4 +1,6 @@
 # AI-Skill-Accelerator-Computer-Vision
+![img1](./images/logo.png)
+
 Society for AI Accelerator Program for Computer Vision
 
 # 🛠️ Setup Guide: Python + OpenCV with Anaconda (Windows/macOS/Linux)
