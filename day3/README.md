@@ -84,7 +84,9 @@ pip freeze > requirements.txt
    - Set file path to: `streamlit_app.py`  
    - Click **“Deploy”**
 
-🎉 Your app will be live on a public Streamlit URL like:
+You can see an example of a complete streamlit project [here](https://github.com/ogbanugot/image-filter). Take note of the [requirements.txt](https://github.com/ogbanugot/image-filter/blob/main/requirements.txt), you should create one just like that and use `opencv-python-headless` instead of `opencv-python`. You can see the deployed app [here](https://image-filter-anfzedp3pp2hkyhqeltn2g.streamlit.app).
+
+🎉 If everything works well, your app will be live on a public Streamlit URL like:
 
 ```
 https://your-app-name.streamlit.app
